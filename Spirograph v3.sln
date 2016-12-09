@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpirographUI", "Spirograph v3\SpirographUI.csproj", "{639DFC1B-74F9-410E-BE22-BEBA2477C575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainstormStudios.Drawing.Spirograph", "SpirographEngine\RainstormStudios.Drawing.Spirograph.csproj", "{8CC4A135-879B-49BA-8B87-6C4F1B5D7461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainstormStudios", "..\RainstormStudios\Project Files\RainstormStudios\RainstormStudios.csproj", "{2B3495A5-12D8-46AF-9A15-4591BC67218E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainstormStudios.Drawing", "..\RainstormStudios\Project Files\RainstormStudios.Drawing\RainstormStudios.Drawing.csproj", "{7FCDA335-1F3C-438F-AEE7-BC86F58E6670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainstormStudios.Unmanaged", "..\RainstormStudios\Project Files\RainstormStudios.Unmanaged\RainstormStudios.Unmanaged.csproj", "{4A705927-AFD4-4ACC-83C3-9F297C77FCD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639DFC1B-74F9-410E-BE22-BEBA2477C575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639DFC1B-74F9-410E-BE22-BEBA2477C575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639DFC1B-74F9-410E-BE22-BEBA2477C575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639DFC1B-74F9-410E-BE22-BEBA2477C575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC4A135-879B-49BA-8B87-6C4F1B5D7461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC4A135-879B-49BA-8B87-6C4F1B5D7461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC4A135-879B-49BA-8B87-6C4F1B5D7461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC4A135-879B-49BA-8B87-6C4F1B5D7461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3495A5-12D8-46AF-9A15-4591BC67218E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3495A5-12D8-46AF-9A15-4591BC67218E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3495A5-12D8-46AF-9A15-4591BC67218E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3495A5-12D8-46AF-9A15-4591BC67218E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCDA335-1F3C-438F-AEE7-BC86F58E6670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCDA335-1F3C-438F-AEE7-BC86F58E6670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCDA335-1F3C-438F-AEE7-BC86F58E6670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCDA335-1F3C-438F-AEE7-BC86F58E6670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A705927-AFD4-4ACC-83C3-9F297C77FCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A705927-AFD4-4ACC-83C3-9F297C77FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A705927-AFD4-4ACC-83C3-9F297C77FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A705927-AFD4-4ACC-83C3-9F297C77FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
