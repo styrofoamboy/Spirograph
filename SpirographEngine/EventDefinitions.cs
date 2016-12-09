@@ -1,4 +1,4 @@
-﻿//  Copyright (c) 2008, Michael unfried
+﻿//  Copyright (c) 2015, Michael unfried
 //  Email:  serbius3@gmail.com
 //  All rights reserved.
 

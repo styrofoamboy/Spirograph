@@ -1,4 +1,4 @@
-﻿//  Copyright (c) 2008, Michael unfried
+﻿//  Copyright (c) 2015, Michael unfried
 //  Email:  serbius3@gmail.com
 //  All rights reserved.
 
@@ -362,7 +362,7 @@ namespace RainstormStudios.Drawing.Spirograph
                     if (x1 == fx1 || y1 == fy1 || x2 == fx2 || y2 == fy2)
                     {
                         // If we manage to actually reach the exact spot where we started,
-                        //   then wait three seconds and start a new shape.
+                        //   then wait five seconds and start a new shape.
                         Thread.CurrentThread.Join(5000);
                         ResetVars();
                     }
