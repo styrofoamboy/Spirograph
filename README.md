@@ -8,3 +8,5 @@ NOTE: This project requires the following libraries from the RainstormStudios pr
 * RainstormStudios
 * RainstormStudios.Drawing
 * RainstromStudios.Unmanaged
+
+https://github.com/styrofoamboy/RainstormStudios
